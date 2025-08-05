@@ -86,7 +86,7 @@ int matrix[rows][columns];
 
 ---
 
-## 🎓 Conclusion (From a Student's Perspective)
+## 🎓 Conclusion 
 
 These programs helped me understand the practical application of 2D arrays in C++. It was enlightening to see how mathematical matrix operations are performed step by step using code. This practice strengthened my problem-solving and logical thinking abilities. Overall, the experience made me more confident in working with multi-dimensional arrays in real-world scenarios.
 
