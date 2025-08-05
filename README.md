@@ -92,5 +92,4 @@ These programs helped me understand the practical application of 2D arrays in C+
 
 ---
 
-🧾 *Authored by: Varnika Maurya*  
-🆔 *PRN: 24070123160*
+
